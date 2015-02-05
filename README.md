@@ -10,4 +10,4 @@ New trainings for other tasks can be implemented by inheriting from the Training
 
 See <a href="http://novanoid.github.io/2014/09/26/training-a-neural-network-to-recognize-handwritten-digits/">this blog post</a> for more information.
 
-Copyright Novanoid 2014, released under GPL-3.0
+Released under GPL-3.0
